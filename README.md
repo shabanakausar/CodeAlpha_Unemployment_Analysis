@@ -1,9 +1,14 @@
 # CodeAlpha_Unemployment_Analysis
 ###  Unemployment Analysis with Python
+
  ● Analyze unemployment rate data representing unemployed people percentage.
+
  ● Use Python for data cleaning, exploration, and visualization of unemployment trends.
+ 
  ● Investigate the impact of Covid-19 on unemployment rates.
+ 
  ● Identify key patterns or seasonal trends in the data.
+ 
  ● Present insights that could inform economic or social policies
  
 On 'Unemployment.csv' we perform this analysis and find these insights
@@ -16,10 +21,9 @@ On 'Unemployment.csv' we perform this analysis and find these insights
 
 
 
-Based on the analysis of the unemployment data in India, here are some insights that could inform economic or social policies:
-
 ###  Present insights that could inform economic or social policies
 
+Based on the analysis of the unemployment data in India, here are some insights that could inform economic or social policies:
 
 1.  **Targeted Support for Regions Most Affected by COVID-19:** The analysis shows that while unemployment generally increased after COVID-19, the impact varied significantly by region. Policies should be tailored to the specific challenges faced by regions that experienced the largest increases in unemployment. This could involve targeted job creation programs, skill development initiatives, or financial support for businesses in those areas.
 
